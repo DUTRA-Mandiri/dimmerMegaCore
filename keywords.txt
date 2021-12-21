@@ -1,0 +1,5 @@
+Begin	KEYWORD1
+dimmerMegaCore	KEYWORD2
+setPower	KEYWORD2
+getPower	KEYWORD2
+Mode	KEYWORD2

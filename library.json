@@ -1,0 +1,15 @@
+{
+  "name": "dimmerMegaCore",
+  "keywords": "dimmer MegaCore",
+  "description": "Dimmer and Softstart based on hardware timer1. Support most arduino board and megacore ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/DUTRA-Mandiri/dimmerMegaCore"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}
